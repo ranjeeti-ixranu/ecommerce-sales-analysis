@@ -135,4 +135,14 @@ This project demonstrates a complete beginner-level data analysis workflow:
 
 ## Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](dashboard.png)
+### Dashboard Overview
+
+![E-Commerce Sales Analysis Dashboard](dashboard-overview.png)
+
+### Main Analysis Charts
+
+![Main Analysis Charts](dashboard-analysis.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](monthly-sales-trend.png)
