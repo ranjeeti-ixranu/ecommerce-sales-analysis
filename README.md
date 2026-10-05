@@ -6,6 +6,14 @@ This project analyzes an e-commerce sales dataset of 800 orders to identify prod
 
 The analysis was completed using **Google Sheets**, including data cleaning, pivot tables, calculated metrics, interactive slicers, and dashboard visualizations.
 
+## 📊 Interactive Dashboard
+
+Explore the interactive Google Sheets dashboard:
+
+👉 [**[Open Interactive Dashboard](https://docs.google.com/spreadsheets/d/1o8dfzOYkbwjAwhj7z68XPoKSj74U2oB9/edit)**](https://docs.google.com/spreadsheets/d/1o8dfzOYkbwjAwhj7z68XPoKSj74U2oB9/edit?usp=sharing&ouid=103727226473870087556&rtpof=true&sd=true)
+
+The dashboard includes interactive slicers, key performance indicators, sales and profit analysis, regional performance, discount analysis, and monthly sales trends.
+
 ## Business Questions
 
 * Which products generate the highest sales and profit?
