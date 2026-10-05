@@ -6,13 +6,11 @@ This project analyzes an e-commerce sales dataset of 800 orders to identify prod
 
 The analysis was completed using **Google Sheets**, including data cleaning, pivot tables, calculated metrics, interactive slicers, and dashboard visualizations.
 
-## 📊 Interactive Dashboard
+## 🛠️ Tools Used
 
-Explore the interactive Google Sheets dashboard:
-
-@https://docs.google.com/spreadsheets/d/1o8dfzOYkbwjAwhj7z68XPoKSj74U2oB9
-
-The dashboard includes interactive slicers, key performance indicators, sales and profit analysis, regional performance, discount analysis, and monthly sales trends.
+- **Google Sheets** — Data cleaning, formulas, Pivot Tables, Pivot Charts, slicers, and dashboard creation.
+- **Data Analysis** — Sales, profit, profit margin, product, regional, discount, and monthly trend analysis.
+- **GitHub** — Project documentation and portfolio presentation.
 
 ## Business Questions
 
@@ -154,3 +152,11 @@ This project demonstrates a complete beginner-level data analysis workflow:
 ### Monthly Sales Trend
 
 ![Monthly Sales Trend](monthly-sales-trend.png)
+
+
+📊 Interactive Dashboard
+Explore the interactive Google Sheets dashboard:
+
+@https://docs.google.com/spreadsheets/d/1o8dfzOYkbwjAwhj7z68XPoKSj74U2oB9
+
+The dashboard includes interactive slicers, key performance indicators, sales and profit analysis, regional performance, discount analysis, and monthly sales trends.
