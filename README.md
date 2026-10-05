@@ -123,15 +123,6 @@ Analyze the West region's performance and identify strategies that could improve
 
 Maintain strong Electronics inventory and explore cross-selling opportunities.
 
-## Tools Used
-
-* Google Sheets
-* Pivot Tables
-* Data Cleaning
-* Calculated Metrics
-* Charts
-* Slicers
-* Business Analysis
 
 ## Project Outcome
 
@@ -152,6 +143,7 @@ This project demonstrates a complete beginner-level data analysis workflow:
 ### Monthly Sales Trend
 
 ![Monthly Sales Trend](monthly-sales-trend.png)
+
 
 
 📊 Interactive Dashboard
