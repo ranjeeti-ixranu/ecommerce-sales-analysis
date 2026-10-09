@@ -5,6 +5,10 @@
 This project analyzes an e-commerce sales dataset of 800 orders to identify product, regional, category, discount, and monthly sales performance.
 
 The analysis was completed using **Google Sheets**, including data cleaning, pivot tables, calculated metrics, interactive slicers, and dashboard visualizations.
+## 📸 Dashboard Preview
+
+![E-commerce Sales Dashboard](dashboard-overview.png)
+
 
 ## 🛠️ Tools Used
 
